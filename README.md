@@ -29,15 +29,11 @@ I'm a self-taught passionate Full-Stack Developer Chennai
 <img height="50" width="50" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 
-| <a href="https://github.com/KaviMani09/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KaviMani09&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="KaviMani09's github stats" /></a> | <a href="https://github.com/KaviMani09/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviMani09&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
-
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/github.png"/>  <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
-
+| <a href="https://github.com/KaviMani09/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KaviMani09&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="KaviMani09's github stats" /></a> | <a href="https://github.com/KaviMani09/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviMani09&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaviMani09&theme=dark&show_icons=true&&hide=issues,contribs)
