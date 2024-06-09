@@ -1,4 +1,4 @@
-## Hi there 👋 It's me MANIKANDAN
+## Hi There 👋 It's me MANIKANDAN
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavimani09&label=Profile%20views&color=0e75b6&style=flat" alt="kavimani09" /> </p>
 
