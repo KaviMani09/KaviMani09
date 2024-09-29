@@ -22,7 +22,7 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
 
 <table width="100" align='center'>
 <tr>
-  <td align='center' width="60">
+  <td align='center' width="60" >
         <a href="https://web.whatsapp.com/send?phone=7823999388"><img src="https://github.com/user-attachments/assets/d39dbb12-6b31-4153-87db-50ab84b1a5e3" width="60"></a>
     </td>
     <td align='center' width="60">
@@ -68,7 +68,7 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
 
 <table width="100">
 <tr>
-    <td align='center' width="190">
+    <td align='center' width="100" hight="100">
         <img src="https://github.com/user-attachments/assets/5ed4161f-4d1e-4e17-869b-e6cd722741e7">
     </td>
     <td align='center' width="190">
