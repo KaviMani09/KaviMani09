@@ -98,7 +98,7 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
         <img src="https://github.com/user-attachments/assets/c226d56c-8b4a-4d98-8cff-ca35ea98fe13">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+        <img src="https://github.com/user-attachments/assets/825d8819-de8f-40ff-9a4d-8acf114251b0">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
