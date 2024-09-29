@@ -10,14 +10,14 @@
 
 
 
-<a href="https://github.com/rahul-jha98/github-stats-transparent">
+<a href="https://github.com/KaviMani09/github-stats-transparent">
 
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/KaviMani09/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/KaviMani09/github-stats-transparent/output/generated/languages.svg)
 
 </a>
 
-> NOTE: This repository is my extension of the repo [jstrieb/github-stats](https://github.com/jstrieb/github-stats). This repo was meant to serve as a detached fork of his project. If you like this repository make sure you also star his repository to show appreciation for his work. 
+> NOTE: This repository is my extension of the repo [jstrieb/github-stats](https://github.com/KaviMani09/github-stats). This repo was meant to serve as a detached fork of his project. If you like this repository make sure you also star his repository to show appreciation for his work. 
 
 
 
