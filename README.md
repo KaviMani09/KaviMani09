@@ -3,8 +3,6 @@
 
 _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linkedin.com/in/kavimanikandan09/) at Check MY [Portfolio](https://kavimanikandanprotfolio.netlify.app). You can see my opensource work down below. I love to code in JavaScript and Rust. I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
 
-<br />
-<br />
 
 <table width="100" align='center'>
 <tr>
