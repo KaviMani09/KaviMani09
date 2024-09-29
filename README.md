@@ -55,36 +55,36 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg">
+        <img src="https://github.com/user-attachments/assets/70ac4fa4-ca8a-4d8b-b646-97c9e67fa7e0g">
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/user-attachments/assets/70ac4fa4-ca8a-4d8b-b646-97c9e67fa7e0">
+        <img src="https://github.com/user-attachments/assets/4721a31e-faaa-4c1d-abf5-075394607fed">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg">
+        <img src="https://github.com/user-attachments/assets/d14c4a8f-c9cf-4f9b-992d-16cb727c2eb2">
     </td>
      <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+        <img src="https://github.com/user-attachments/assets/2227eff3-e34f-4850-b37c-7dfee2b4573e">
     </td>
     <td align='center'  width="190">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+        <img src="https://github.com/user-attachments/assets/6994014c-27a3-488c-b4f2-c78f05033756">
     </td>
 </tr>
 <tr>
     <td align='center' width="190">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+            <img src="https://github.com/user-attachments/assets/d383a17e-8f47-4359-8eda-2dc55b8684ba" width="60"/>
     </td>
     <td align='center' width="190">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"/>
+            <img src="https://github.com/user-attachments/assets/dde8da65-7df0-4a8a-b908-9fef670a2bee" width="60"/>
     </td>
      <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="110">
+        <img src="https://github.com/user-attachments/assets/87245360-920d-46a9-8955-6f6fd25a033a" width="110">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+        <img src="https://github.com/user-attachments/assets/56828f8d-ed80-4b23-b3ba-828440f71e74">
     </td>
     <td align='center'>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="60"/>
+            <img src="https://github.com/user-attachments/assets/e1ab4233-1701-42f0-88cd-dcbd40611c33" width="60"/>
     </td>
 </tr>
 <tr>
