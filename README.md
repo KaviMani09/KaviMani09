@@ -1,4 +1,4 @@
-<h2 align='center'> <i>Hello, Mani kandan!</h2>  
+<p align="center"><a href="https://KaviMani09.github.io"><img width="80%" alt="Hello, I'm MANI KANDAN. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <img alt="MY Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KaviMani09&show_icons=true"/>
 
