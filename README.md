@@ -12,17 +12,17 @@ I'm a passionate Full-Stack Developer Chennai
 - 📫 How to reach me : 7823999388
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mani-kandan-k-2709mk/)
 
-### I code in
+### TECHNICAL SKILLS
  
 <img height="50" width="50" 
   src="https://img.icons8.com/color/48/000000/html-5.png" />
 <img height="50" width="50" 
   src="https://img.icons8.com/color/48/000000/css3.png" />
-  <img height="50" width="50" 
+ <img height="50" width="50" 
   src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img height="50" width="50" 
+ <img height="50" width="50" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img height="50" width="50" 
+ <img height="50" width="50" 
   src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img height="50" width="50" 
   src="https://img.icons8.com/color/48/000000/bootstrap.png" />
@@ -30,7 +30,7 @@ I'm a passionate Full-Stack Developer Chennai
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
 
-### IDE and Tools I Use
+### Development Tools
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/github.png"/>  <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
 | <a href="https://github.com/KaviMani09/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KaviMani09&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="KaviMani09's github stats" /></a> | <a href="https://github.com/KaviMani09/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviMani09&layout=compact&theme=buefy&hide_border=true" /></a> |
