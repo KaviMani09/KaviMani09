@@ -44,12 +44,9 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
 
 <img alt="MY Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KaviMani09&show_icons=true"/>
 
-<img alt=" top langs"  align="left"  hight="50%"  width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviMani09&layout=compact"/>
+<img alt=" top langs"  align="left"  width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviMani09&layout=compact"/>
 
-<br />
-<br />
-<br />
-<br />
+
 
 <h2 align='center'><i><a href="https://github.com/KaviMani09/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
