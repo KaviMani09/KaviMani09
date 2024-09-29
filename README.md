@@ -20,18 +20,15 @@ I'm a passionate Full-Stack Developer Chennai
   src="https://img.icons8.com/color/48/000000/css3.png" />
   <img height="50" width="50" 
   src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img height="50" width="50" 
-  src="https://img.icons8.com/color/48/000000/bootstrap.png" />
   <img height="50" width="50" 
-  src="https://img.icons8.com/color/48/000000/React js.png" />
-<img height="50" width="50" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img height="50" width="50" 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img height="50" width="50" 
   src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img height="50" width="50" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img height="50" width="50" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/.svg" alt="php" width="40" height="40"/>
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/github.png"/>  <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
