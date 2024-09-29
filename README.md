@@ -1,4 +1,4 @@
-## Hi There 👋 It's me MANIKANDAN
+## Hi There 👋 I'Am MANIKANDAN k
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavimani09&label=Profile%20views&color=0e75b6&style=flat" alt="kavimani09" /> </p>
 
@@ -6,10 +6,10 @@
 
 I'm a self-taught passionate Full-Stack Developer Chennai
 <img align="right" width="370" height="290" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
-- 🔭 Here's my [portfolio](https://manikandanprofile.netlify.app/)                                                 
+- 🔭 Here's my [portfolio](https://kavimanikandanprotfolio.netlify.app/)                                                
 - 💼 Full-Stack Developer 
-- 💬 Ask me about Email ID : manimrs7823@gmail.com
-- 📫 How to reach me :
+- 💬 Ask me about Email ID : kavimanikandan27@gmail.com
+- 📫 How to reach me : 7823999388
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/kaviMani0927) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mani-kandan-k-2709mk/)
 - 📄 Know about my experiences [https://publuu.com/flip-book/489340/1098870](https://publuu.com/flipbook/489340/1098870)
 ### I code in
