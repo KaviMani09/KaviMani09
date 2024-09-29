@@ -68,7 +68,7 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
 
 <table width="100">
 <tr>
-    <td align='center' width="100" hight="100">
+    <td align='center' width="50" hight="50">
         <img src="https://github.com/user-attachments/assets/5ed4161f-4d1e-4e17-869b-e6cd722741e7">
     </td>
     <td align='center' width="190">
