@@ -94,7 +94,7 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
      <td align='center' width="190">
         <img src="https://github.com/user-attachments/assets/87245360-920d-46a9-8955-6f6fd25a033a" >
     </td>
-    <td align='center' width="190">
+    <td align='center' width="100">
         <img src="https://github.com/user-attachments/assets/56828f8d-ed80-4b23-b3ba-828440f71e74">
     </td>
     <td align='center'>
