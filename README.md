@@ -115,7 +115,7 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
         <img src="https://github.com/user-attachments/assets/825d8819-de8f-40ff-9a4d-8acf114251b0" width="60">
     </td>
     <td align='center'>
-        <img src="https://github.com/user-attachments/assets/bb7143b2-2b54-4ff5-a6f4-46c9a196cdf1" width="60">
+        <img src="https://github.com/user-attachments/assets/bb7143b2-2b54-4ff5-a6f4-46c9a196cdf1" width="2000">
     </td>
 </tr>
 </table>
