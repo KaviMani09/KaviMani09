@@ -37,9 +37,6 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
 </tr>
 </table>
 
-</p>
-
-
 <br />
 <br />
 
