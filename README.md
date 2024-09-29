@@ -8,6 +8,9 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
  
 <table width="100" align='center'>
 <tr>
+  <td align='center' width="60">
+        <a href="https://web.whatsapp.com/send?phone=7823999388"><img src="https://www.freepik.com/icon/logo_15713434#fromView=image_search_similar&page=1&position=18&uuid=e7e1ae87-f624-4562-a6d3-06cc2ac1aa08" width="60"></a>
+    </td>
     <td align='center' width="60">
         <a href="https://twitter.com/@kaviMani0927"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
     </td>
