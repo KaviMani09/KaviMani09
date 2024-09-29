@@ -1,5 +1,6 @@
 <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
+<a href="https://github.com/KaviMani09/github-stats-transparent">
 
 <img alt="MY Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KaviMani09&show_icons=true"/>
 
