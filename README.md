@@ -53,6 +53,8 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
 
 <br />
 <br />
+<br />
+<br />
 
 <h2 align='center'><i><a href="https://github.com/KaviMani09/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
