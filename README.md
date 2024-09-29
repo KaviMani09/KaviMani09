@@ -58,7 +58,7 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
         <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+        <img src="https://github.com/user-attachments/assets/70ac4fa4-ca8a-4d8b-b646-97c9e67fa7e0">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg">
