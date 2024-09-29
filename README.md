@@ -2,7 +2,7 @@
 
 <img alt="MY Stats" src="https://github-readme-stats.vercel.app/api?username=KaviMani09&show_icons=true"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaviMani09&layout=compact)](https://github.com/KaviMani09/github-readme-stats&layout=compact)
+<img alt=" top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviMani09&layout=compact"/>
 
 _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linkedin.com/in/kavimanikandan09/) at Check MY [Portfolio](https://kavimanikandanprotfolio.netlify.app). You can see my opensource work down below. I love to code in JavaScript and Rust. I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
 <h3 align='center'><i>Social Media Handles</i></h3>
