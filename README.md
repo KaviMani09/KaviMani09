@@ -4,6 +4,17 @@
 _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linkedin.com/in/kavimanikandan09/) at Check MY [Portfolio](https://kavimanikandanprotfolio.netlify.app). You can see my opensource work down below. I love to code in JavaScript and Rust. I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
 
 
+<table width="100" align='center'>
+<tr>
+ <td align='center'>
+    <b>Currently learning</b>
+ </td>
+ <td align='center' width="60">
+     <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
+ </td>
+</tr>
+</table>
+
 <h3 align='center'><i>Social Media Handles</i></h3><p align='center'>
 
 <table width="100" align='center'>
