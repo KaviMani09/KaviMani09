@@ -103,9 +103,3 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
 </tr>
 </table>
 
-<h2 align='center'><i>Top Repos</i></h2>
-
-<p align="center">
-  <img alt="MY Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/username=KaviMani09&show_icons=true"/>
-
-</p>
