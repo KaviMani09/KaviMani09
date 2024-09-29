@@ -1,6 +1,6 @@
 <h2 align='center'> <i>Hello, Mani kandan!</h2>  
 
-<img align="right" src="https://github.com/KaviMani09/user-attachments/assets/86d98457-26ac-4f7f-ab0b-49cfdc795fd6"  width="400">
+<img align="right" src="https://github.com/user-attachments/assets/86d98457-26ac-4f7f-ab0b-49cfdc795fd6"  width="400">
 
 _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linkedin.com/in/kavimanikandan09/) at Check MY [Portfolio](https://kavimanikandanprotfolio.netlify.app). You can see my opensource work down below. I love to code in JavaScript and Rust. I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
 <h3 align='center'><i>Social Media Handles</i></h3>
