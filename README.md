@@ -109,7 +109,7 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
         <img src="https://github.com/user-attachments/assets/3df09819-64ea-4f5f-9315-90810da19c41" width="60">
     </td>
     <td align='center'>
-        <img src="https://github.com/user-attachments/assets/c226d56c-8b4a-4d98-8cff-ca35ea98fe13" width="60">
+        <img src="https://github.com/user-attachments/assets/c226d56c-8b4a-4d98-8cff-ca35ea98fe13" width="100">
     </td>
     <td align='center'>
         <img src="https://github.com/user-attachments/assets/825d8819-de8f-40ff-9a4d-8acf114251b0" width="60">
