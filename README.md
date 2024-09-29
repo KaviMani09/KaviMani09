@@ -75,16 +75,16 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
             <img src="https://github.com/user-attachments/assets/d383a17e-8f47-4359-8eda-2dc55b8684ba" />
     </td>
     <td align='center' width="190">
-            <img src="https://github.com/user-attachments/assets/dde8da65-7df0-4a8a-b908-9fef670a2bee" width="60"/>
+            <img src="https://github.com/user-attachments/assets/dde8da65-7df0-4a8a-b908-9fef670a2bee" >
     </td>
      <td align='center' width="190">
-        <img src="https://github.com/user-attachments/assets/87245360-920d-46a9-8955-6f6fd25a033a" width="110">
+        <img src="https://github.com/user-attachments/assets/87245360-920d-46a9-8955-6f6fd25a033a" >
     </td>
     <td align='center' width="190">
         <img src="https://github.com/user-attachments/assets/56828f8d-ed80-4b23-b3ba-828440f71e74">
     </td>
     <td align='center'>
-            <img src="https://github.com/user-attachments/assets/e1ab4233-1701-42f0-88cd-dcbd40611c33" width="60"/>
+            <img src="https://github.com/user-attachments/assets/e1ab4233-1701-42f0-88cd-dcbd40611c33">
     </td>
 </tr>
 <tr>
