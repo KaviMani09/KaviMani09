@@ -12,7 +12,7 @@
 
 <a href="https://github.com/KaviMani09/github-stats-transparent">
 
-![](https://raw.githubusercontent.com/KaviMani09/github-stats-transparent/output/generated/overview.svg)
+![](https://github-readme-stats.vercel.app/api?username=KaviMani09/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/KaviMani09/github-stats-transparent/output/generated/languages.svg)
 
 </a>
