@@ -113,14 +113,3 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
     </td>
 </tr>
 </table>
-
-
-#### Top Repositories
-
-
-<a href="https://github.com/KaviMani09/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaviMani09&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/KaviMani09/KaviMani09.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KaviMani09&repo=anuraghazra.github.io&theme=buefy" />
-</a>
