@@ -33,17 +33,6 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
 <img alt=" top langs"  align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviMani09&layout=compact"/>
 
 
-<table width="100" align='center'>
-<tr>
- <td align='center'>
-    <b>Currently learning</b>
- </td>
- <td align='center' width="60">
-     <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
- </td>
-</tr>
-</table>
-
 </br>
 
 <h2 align='center'><i><a href="https://github.com/KaviMani09/github-readme-activity-graph">Activity Graph 📈</i></h2>
