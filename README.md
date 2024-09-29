@@ -1,15 +1,17 @@
 <h2 align='center'> <i>Hello, Folks!</h2>  
 
+
+_Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linkedin.com/in/kavimanikandan09/) at Check MY [Portfolio](https://kavimanikandanprotfolio.netlify.app). You can see my opensource work down below. I love to code in JavaScript and Rust. I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
+<h3 align='center'><i>Social Media Handles</i></h3>
+<p align='center'>
+
+
 <a href="https://github.com/KaviMani09/github-stats-transparent">
 
 <img alt="MY Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KaviMani09&show_icons=true"/>
 
 <img alt=" top langs"  align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviMani09&layout=compact"/>
 
-
-_Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linkedin.com/in/kavimanikandan09/) at Check MY [Portfolio](https://kavimanikandanprotfolio.netlify.app). You can see my opensource work down below. I love to code in JavaScript and Rust. I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
-<h3 align='center'><i>Social Media Handles</i></h3>
-<p align='center'>
  
 <table width="100" align='center'>
 <tr>
