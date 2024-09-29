@@ -101,7 +101,7 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
         <img src="https://github.com/user-attachments/assets/825d8819-de8f-40ff-9a4d-8acf114251b0">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
+        <img src="https://github.com/user-attachments/assets/bb7143b2-2b54-4ff5-a6f4-46c9a196cdf1">
     </td>
 </tr>
 </table>
@@ -109,7 +109,7 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
 <h2 align='center'><i>Top Repos</i></h2>
 
 <p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=github-readme-activity-graph&theme=vue-dark&hide_border=true" height="185">
+<a href="https://github.com/KaviMani09/github-readme-activity-graph">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=KaviMani09&repo=github-readme-activity-graph&theme=vue-dark&hide_border=true" height="185">
 </a>
 </p>
