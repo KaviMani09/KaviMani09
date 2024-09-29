@@ -2,20 +2,20 @@
 
 <img align="right" src="https://github.com/Ashutosh00710/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
 
-_Hello there this is **Mani kandan**. Working as [Freelancer - II](https://www.linkedin.com/in/kavimanikandan09/) at [Aftershoot](https://www.linkedin.com/company/aftershootco/). You can see my opensource work down below. I love to code in JavaScript and Rust. I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
+_Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linkedin.com/in/kavimanikandan09/) at Check MY [Portfolio](https://kavimanikandanprotfolio.netlify.app). You can see my opensource work down below. I love to code in JavaScript and Rust. I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
  
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a href="https://twitter.com/AshutoshD07"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
+        <a href="https://twitter.com/@kaviMani0927"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.instagram.com/07_ashutosh_dwivedi/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
+        <a href="https://www.instagram.com/roughed__boi__mani"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+        <a href="https://www.linkedin.com/in/kavimanikandan09/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
     </td>
 </tr>
 </table>
