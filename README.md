@@ -55,7 +55,7 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://github.com/user-attachments/assets/70ac4fa4-ca8a-4d8b-b646-97c9e67fa7e0g">
+        <img src="https://github.com/user-attachments/assets/5ed4161f-4d1e-4e17-869b-e6cd722741e7">
     </td>
     <td align='center' width="190">
         <img src="https://github.com/user-attachments/assets/4721a31e-faaa-4c1d-abf5-075394607fed">
@@ -89,10 +89,10 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
+        <img src="https://github.com/user-attachments/assets/4704abca-da11-4133-8e5e-687690df26ee">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+        <img src="https://github.com/user-attachments/assets/3df09819-64ea-4f5f-9315-90810da19c41">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
