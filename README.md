@@ -1,11 +1,11 @@
 <h2 align='center'> <i>Hello, Mani kandan!</h2>  
 
-<img align="right" src="https://github.com/user-attachments/assets/86d98457-26ac-4f7f-ab0b-49cfdc795fd6"  width="400">
 
-<a href="https://github.com/rahul-jha98/github-stats-transparent">
+<a href="https://github.com/KaviMani09/github-stats-transparent">
 
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/KaviMani09/github-stats-transparent/output/generated/overview.svg)
+<br>
+![](https://raw.githubusercontent.com/KaviMani09/github-stats-transparent/output/generated/languages.svg)
 
 </a>
 
