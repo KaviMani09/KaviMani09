@@ -33,9 +33,6 @@ I'm a passionate Full-Stack Developer Chennai
 ### Development Tools
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/github.png"/>  <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
-<a href="https://github.com/KaviMani09/github-readme-stats"><img align="center" src="https://github.com/KaviMani09?username=KaviMani09&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="KaviMani09's github stats" /></a> | <a href="https://github.com/KaviMani09/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviMani09&layout=compact&theme=buefy&hide_border=true" /></a>
-| ------------- | ------------- |
-
 
 
 
