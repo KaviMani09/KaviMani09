@@ -106,5 +106,5 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
 <h2 align='center'><i>Top Repos</i></h2>
 
 <p align="center">
-<img alt="readme-stats" src="https://github-readme-stats.vercel.app/api/pin/?username=KaviMani09&repo=github-readme-stats"/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 </p>
