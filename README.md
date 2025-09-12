@@ -44,9 +44,6 @@ continuous learning and excited to contribute as a full-stack developer in a for
 </tr>
 
 
-
-
-
 <table>
   <h2 align='center'><i>Programming Languages & Tools</i></h2>
 
@@ -112,18 +109,14 @@ continuous learning and excited to contribute as a full-stack developer in a for
 <p align="center">
   <!-- Light mode -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaviMani09&theme=react&area=true&hide_border=true" width="100%">
-
-  <!-- Dark mode (optional, GitHub does not auto-switch, but you can toggle manually) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaviMani09&theme=dracula&area=true&hide_border=true" width="100%">
 </p>
 
 
+<p align="center">
+  <!-- GitHub Stats -->
+  <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KaviMani09&show_icons=true" width="47%">
 
+  <!-- Top Languages -->
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviMani09&layout=compact" width="47%">
+</p>
 
-<table>
-  <a href="https://github.com/KaviMani09/github-stats-transparent">
-
-<img alt="MY Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KaviMani09&show_icons=true"/>
-
-<img alt=" top langs"  align="left"  width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviMani09&layout=compact"/>
-</table>
