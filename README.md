@@ -104,19 +104,18 @@ continuous learning and excited to contribute as a full-stack developer in a for
 
 
 
-<h2 align="center">Activity Graph 📈</h2>
-
-<p align="center">
-  <!-- Light mode -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaviMani09&theme=react&area=true&hide_border=true" width="100%">
-</p>
-
+<!--==================== GitHub Stats & Activity ====================-->
+<h2 align="center">📊 My GitHub Stats & Activity</h2>
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KaviMani09&show_icons=true" width="47%">
+  <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KaviMani09&show_icons=true&theme=react&count_private=true&hide_border=true" width="45%" style="margin-right: 10px;">
 
   <!-- Top Languages -->
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviMani09&layout=compact" width="47%">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaviMani09&layout=compact&theme=react&hide_border=true" width="45%">
 </p>
 
+<p align="center">
+  <!-- Live Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaviMani09&theme=react&area=true&hide_border=true" width="100%">
+</p>
