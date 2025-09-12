@@ -1,40 +1,54 @@
-<h2 align='center'> <i>Hello,  I'M Mani kandan!</h2>  
+<h2 align='center'> <i>Hello,  I'm Manikandan <br> Web Developer </h2>  
 
 
-_Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linkedin.com/in/kavimanikandan09/) at Check MY [Portfolio](https://kavimanikandanprotfolio.netlify.app). You can see my opensource work down below. I love to code in JavaScript and Rust. I am a friendly guy you can connect with me on social media, I would love to have you in my life._  
+**Manikandan Working as Freelancer Web Developer**
+
+**Check My [Portfolio](https://kavimanikandanprotfolio.netlify.app)**
+
+_Passionate and detail-oriented Web Developer (Fresher) with hands-on experience in HTML, CSS, JavaScript,
+PHP, and MySQL. Skilled in building responsive, user-friendly web applications using React.js, Laravel, and
+Bootstrap. Experienced in RESTful API integration, front-end optimization, and dynamic interface
+development. Proficient in Git, Agile workflows, and collaborative team environments. Committed to
+continuous learning and excited to contribute as a full-stack developer in a forward-thinking tech company._  
 
 
 
-<h3 align='center'><i>Social Media Handles</i></h3><p align='center'>
-
-<table width="100" align='center'>
-<tr>
-  <td align='center' width="60" >
-  <a href="https://web.whatsapp.com/send?phone=7823999388"><img src="https://github.com/user-attachments/assets/d39dbb12-6b31-4153-87db-50ab84b1a5e3" width="60"></a>
-  </td>
-  <td align='center' width="60">
-    <a href="https://twitter.com/@kaviMani0927"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
-  </td>
-  <td align='center' width="60">
-    <a href="https://www.instagram.com/roughed__boi__mani"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
-  </td>
-  <td align='center' width="60">
-    <a href="https://www.linkedin.com/in/kavimanikandan09/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
-  </td>
-</tr>
-
+<h3 align='center'><i>Get in Touch <br> Have a Any Questions ?</i></h3><p align='center'>
 
 <table width="100" align='center'>
 <tr>
- <td align='center'>
-    <b>Learning Any Time</b>
- </td>
+ <td align='center' width="60">
+  <a href="mailto:kavimanikandan27@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="60" alt="Gmail">
+  </a>
+</td>
+
+  <td align='center' width="60">
+    <a href="https://www.linkedin.com/in/kavimanikandan09/">
+      <img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60">
+    </a>
+  </td>
+
+   <td align='center' width="60" >
+  <a href="https://web.whatsapp.com/send?phone=7823999388">
+    <img src="https://github.com/user-attachments/assets/d39dbb12-6b31-4153-87db-50ab84b1a5e3" width="60">
+  </a>
+  </td>
+
+  <td align='center' width="60">
+    <a href="https://www.instagram.com/roughed__boi__mani">
+      <img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png">
+    </a>
+  </td>
+
 </tr>
-</table>
+
+
+
 
 
 <table>
-  <h2 align='center'><i>Languages and Tools</i></h2>
+  <h2 align='center'><i>Programming Languages & Tools</i></h2>
 
 <table width="100">
 <tr>
@@ -85,7 +99,7 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
         <img src="https://github.com/user-attachments/assets/825d8819-de8f-40ff-9a4d-8acf114251b0" width="60">
     </td>
     <td align='center'>
-        <img src="https://github.com/user-attachments/assets/bb7143b2-2b54-4ff5-a6f4-46c9a196cdf1" width="60">
+       <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" width="60" alt="Google Logo">
     </td>
 </tr>
 </table>
@@ -93,15 +107,16 @@ _Hello there this is **Mani kandan**. Working as [Freelancer](https://www.linked
 
 
 
-<h2 align='center'><i><a href="https://github.com/KaviMani09/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<h2 align="center">Activity Graph 📈</h2>
+
 <p align="center">
-<a href="https://github.com/KaviMani09/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaviMani09&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
-<a href="https://github.com/KaviMani09/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaviMani09&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
+  <!-- Light mode -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaviMani09&theme=react&area=true&hide_border=true" width="100%">
+
+  <!-- Dark mode (optional, GitHub does not auto-switch, but you can toggle manually) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaviMani09&theme=dracula&area=true&hide_border=true" width="100%">
 </p>
+
 
 
 
